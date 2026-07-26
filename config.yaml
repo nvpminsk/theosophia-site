@@ -1,0 +1,63 @@
+baseURL: "http://localhost:1313/"
+languageCode: "ru-ru"
+title: "ГЕЛИОС | Портал интегрального знания"
+theme: "stack"
+
+params:
+  mainSections:
+    - posts
+  featuredImageField: image
+  rssFullContent: true
+
+  footer:
+    since: 2026
+    customText: "Авторский проект Николая Панчишина"
+
+  sidebar:
+    subtitle: "Интегральное знание на стыке философии, науки и эзотерических традиций"
+
+menu:
+  main:
+    - identifier: "philosophy"
+      name: "Философия"
+      url: "/categories/philosophy/"
+      weight: 10
+    - identifier: "science"
+      name: "Наука"
+      url: "/categories/science/"
+      weight: 20
+    - identifier: "politics"
+      name: "Идеология"
+      url: "/categories/politics/"
+      weight: 30
+    - identifier: "history"
+      name: "История"
+      url: "/categories/history/"
+      weight: 40
+    - identifier: "creativity"
+      name: "Творчество"
+      url: "/categories/creativity/"
+      weight: 50
+    - identifier: "archive"
+      name: "Архив"
+      url: "https://archive.theosophia.ru"
+      weight: 100
+
+taxonomies:
+  category: "categories"
+  tag: "tags"
+  series: "series"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    guessSyntax: true
+    style: "monokai"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
