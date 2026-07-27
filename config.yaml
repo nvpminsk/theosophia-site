@@ -1,4 +1,4 @@
-baseURL: "http://localhost:1313/"
+baseURL: "https://nvpminsk.github.io/theosophia-site/"
 languageCode: "ru-ru"
 title: "ГЕЛИОС | Портал интегрального знания"
 theme: "stack"
