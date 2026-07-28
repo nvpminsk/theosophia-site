@@ -1,19 +1,13 @@
 ---
-aliases:
-  - "Граф Сен-Жермен: Вне времени и истории"
 tags: []
 feature: thumbnails/youtube/p8eNLDUjlS0.webp
 thumbnail: thumbnails/resized/3e9d19bf108a2ccb67ca845c173b3419_7ee01d68.webp
-linter-yaml-title-alias: "Граф Сен-Жермен: Вне времени и истории"
 date created: Friday, June 5th 2026, 12:52:04 pm
-date modified: Saturday, June 6th 2026, 2:57:47 pm
+date modified: Tuesday, July 28th 2026, 3:41:47 pm
+title: Граф Сен-Жермен. Вне времени и истории
 ---
 
-
-
-
-
-# Граф Сен-Жермен: Вне времени и истории
+# Граф Сен-Жермен. Вне времени и истории
 
 ![01_risunok_13.jpg](/posts/01risunok13jpg/)
 
